@@ -1,3 +1,3 @@
-# Autorization_Backend-Vue.JsЪ
+# Autorization_Backend-Vue.Js
 Vue.Js  first  
 
